@@ -1,0 +1,8 @@
+name: MLGRush
+version: 1.0
+main: de.daniel.mlgrush.MLGRush
+
+commands:
+  forcemap:
+  start:
+  setup:
