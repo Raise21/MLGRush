@@ -3,7 +3,7 @@ package de.daniel.mlgrush.session.voting;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
-import de.daniel.mlgrush.configuration.map.MLGRushMap;
+import de.daniel.mlgrush.configuration.MLGRushMap;
 import de.daniel.mlgrush.MLGRush;
 import lombok.Getter;
 import org.bukkit.Sound;

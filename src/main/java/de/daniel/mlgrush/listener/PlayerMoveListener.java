@@ -1,4 +1,4 @@
-package de.daniel.mlgrush.listener.move;
+package de.daniel.mlgrush.listener;
 
 import de.daniel.mlgrush.scoreboard.IngameScoreboard;
 import de.daniel.mlgrush.state.GameState;

@@ -1,4 +1,4 @@
-package de.daniel.mlgrush.listener.chat;
+package de.daniel.mlgrush.listener;
 
 import de.daniel.mlgrush.state.GameState;
 import de.daniel.mlgrush.MLGRush;

@@ -1,4 +1,4 @@
-package de.daniel.mlgrush.listener.food;
+package de.daniel.mlgrush.listener.environment;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

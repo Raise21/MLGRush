@@ -1,6 +1,6 @@
 package de.daniel.mlgrush.scoreboard;
 
-import de.daniel.mlgrush.configuration.map.MLGRushMap;
+import de.daniel.mlgrush.configuration.MLGRushMap;
 import de.daniel.mlgrush.MLGRush;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

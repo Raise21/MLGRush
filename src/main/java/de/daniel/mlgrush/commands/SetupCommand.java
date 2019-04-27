@@ -1,8 +1,8 @@
 package de.daniel.mlgrush.commands;
 
 import de.daniel.mlgrush.configuration.MLGRushConfiguration;
-import de.daniel.mlgrush.configuration.bed.MLGRushBed;
-import de.daniel.mlgrush.configuration.map.MLGRushMap;
+import de.daniel.mlgrush.configuration.MLGRushBed;
+import de.daniel.mlgrush.configuration.MLGRushMap;
 import de.daniel.mlgrush.location.SerializableLocation;
 import de.daniel.mlgrush.MLGRush;
 import org.bukkit.command.Command;

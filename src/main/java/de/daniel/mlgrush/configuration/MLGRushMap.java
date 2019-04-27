@@ -1,7 +1,6 @@
-package de.daniel.mlgrush.configuration.map;
+package de.daniel.mlgrush.configuration;
 
 import com.google.common.collect.Maps;
-import de.daniel.mlgrush.configuration.bed.MLGRushBed;
 import de.daniel.mlgrush.location.SerializableLocation;
 import lombok.Data;
 

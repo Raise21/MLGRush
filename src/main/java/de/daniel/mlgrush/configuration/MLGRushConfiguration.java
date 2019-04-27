@@ -2,7 +2,6 @@ package de.daniel.mlgrush.configuration;
 
 import com.google.common.collect.Maps;
 import com.google.gson.GsonBuilder;
-import de.daniel.mlgrush.configuration.map.MLGRushMap;
 import de.daniel.mlgrush.location.SerializableLocation;
 import lombok.Data;
 

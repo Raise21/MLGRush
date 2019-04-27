@@ -7,7 +7,7 @@ import com.google.gson.Gson;
 import de.daniel.mlgrush.MLGRush;
 import de.daniel.mlgrush.builder.ItemBuilder;
 import de.daniel.mlgrush.configuration.MLGRushConfiguration;
-import de.daniel.mlgrush.configuration.map.MLGRushMap;
+import de.daniel.mlgrush.configuration.MLGRushMap;
 import de.daniel.mlgrush.configuration.player.MLGRushPlayer;
 import de.daniel.mlgrush.inventories.PlayerGameInventory;
 import de.daniel.mlgrush.inventories.PlayerJoinInventory;

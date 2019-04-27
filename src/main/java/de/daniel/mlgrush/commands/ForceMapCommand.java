@@ -1,7 +1,7 @@
 package de.daniel.mlgrush.commands;
 
 
-import de.daniel.mlgrush.configuration.map.MLGRushMap;
+import de.daniel.mlgrush.configuration.MLGRushMap;
 import de.daniel.mlgrush.session.Session;
 import de.daniel.mlgrush.state.GameState;
 import de.daniel.mlgrush.MLGRush;

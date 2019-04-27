@@ -1,6 +1,6 @@
 package de.daniel.mlgrush.session;
 
-import de.daniel.mlgrush.configuration.map.MLGRushMap;
+import de.daniel.mlgrush.configuration.MLGRushMap;
 
 public interface ISession {
 

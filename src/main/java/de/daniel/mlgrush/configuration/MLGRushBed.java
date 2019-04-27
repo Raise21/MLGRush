@@ -1,4 +1,4 @@
-package de.daniel.mlgrush.configuration.bed;
+package de.daniel.mlgrush.configuration;
 
 import de.daniel.mlgrush.location.SerializableLocation;
 import lombok.Data;

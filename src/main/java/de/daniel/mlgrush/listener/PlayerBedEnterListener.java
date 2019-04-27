@@ -1,10 +1,10 @@
-package de.daniel.mlgrush.listener.bed;
+package de.daniel.mlgrush.listener;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerBedEnterEvent;
 
-public class BedEnterListener implements Listener {
+public class PlayerBedEnterListener implements Listener {
 
     @EventHandler
     public void onBed( final PlayerBedEnterEvent enterEvent ) {

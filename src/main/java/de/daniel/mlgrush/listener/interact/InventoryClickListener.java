@@ -1,4 +1,4 @@
-package de.daniel.mlgrush.listener.click;
+package de.daniel.mlgrush.listener.interact;
 
 import de.daniel.mlgrush.state.GameState;
 import de.daniel.mlgrush.MLGRush;
